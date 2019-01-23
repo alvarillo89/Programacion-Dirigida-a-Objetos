@@ -1,4 +1,4 @@
-# Programacion-Dirigida-a-Objetos
+# Programación Dirigida a Objetos
 Implementación del juego Napakalaki
 
 Autores:
